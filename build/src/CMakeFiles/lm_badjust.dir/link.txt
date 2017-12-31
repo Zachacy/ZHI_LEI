@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/liblm_badjust.a  CMakeFiles/lm_badjust.dir/LM_badjust.cpp.o
+/usr/bin/ranlib ../../lib/liblm_badjust.a

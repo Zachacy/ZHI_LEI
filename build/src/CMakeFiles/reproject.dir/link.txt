@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libreproject.a  CMakeFiles/reproject.dir/reproject.cpp.o
+/usr/bin/ranlib ../../lib/libreproject.a

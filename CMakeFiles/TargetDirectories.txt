@@ -1,0 +1,4 @@
+/home/diligent/my_slam/next_direct/src/CMakeFiles/lm_badjust.dir
+/home/diligent/my_slam/next_direct/src/CMakeFiles/reproject.dir
+/home/diligent/my_slam/next_direct/src/CMakeFiles/slamBase.dir
+/home/diligent/my_slam/next_direct/src/CMakeFiles/slamsystem.dir

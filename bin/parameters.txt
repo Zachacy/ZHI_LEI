@@ -1,0 +1,18 @@
+
+# camera
+camera.cx=320.1;
+camera.cy=247.6;
+camera.fx=535.4;
+camera.fy=539.2;
+camera.scale=5000.0;
+
+# part 5 
+# 数据相关
+# 起始与终止索引
+
+# 数据所在目录
+associate_dir=../../rgbd_dataset_freiburg2_xyz
+
+
+
+
